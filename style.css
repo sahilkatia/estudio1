@@ -1,0 +1,33 @@
+.estudio-carousel{
+    margin: 100px;
+}
+
+.form {
+    margin: 100px;
+}
+
+.nav-link, .navbar-brand{
+    color: grey !important;
+}
+
+.about{
+    padding-top: 80px;
+    padding-bottom: 80px;
+ /* margin-left: 56px; */
+    /* margin-bottom: 50px;
+    max-width: 90% !important; */
+}
+
+.donationPage, .news{
+    margin:100px;
+}
+
+.meetTeam {
+    padding-top:100px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.subPort1{
+    margin-left: 5px;
+}
